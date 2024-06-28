@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mortgageCaculator/static/css/main.cc7fb8b5.css",
+    "main.js": "/mortgageCaculator/static/js/main.a4445ebb.js",
+    "static/js/453.64512fd7.chunk.js": "/mortgageCaculator/static/js/453.64512fd7.chunk.js",
+    "index.html": "/mortgageCaculator/index.html",
+    "main.cc7fb8b5.css.map": "/mortgageCaculator/static/css/main.cc7fb8b5.css.map",
+    "main.a4445ebb.js.map": "/mortgageCaculator/static/js/main.a4445ebb.js.map",
+    "453.64512fd7.chunk.js.map": "/mortgageCaculator/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc7fb8b5.css",
+    "static/js/main.a4445ebb.js"
+  ]
+}
